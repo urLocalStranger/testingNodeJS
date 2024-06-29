@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/urLocalStranger/testingNodeJS/issues"
   },
-  "homepage": "https://github.com/urLocalStranger/testingNodeJS#readme"
+  "homepage": "https://github.com/urLocalStranger/testingNodeJS#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
